@@ -1,0 +1,16 @@
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\bin\Debug\net8.0-windows\PİZZA SİPARİŞ EKRANI.exe
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\bin\Debug\net8.0-windows\PİZZA SİPARİŞ EKRANI.deps.json
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\bin\Debug\net8.0-windows\PİZZA SİPARİŞ EKRANI.runtimeconfig.json
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\bin\Debug\net8.0-windows\PİZZA SİPARİŞ EKRANI.dll
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\bin\Debug\net8.0-windows\PİZZA SİPARİŞ EKRANI.pdb
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\obj\Debug\net8.0-windows\PİZZA_SİPARİŞ_EKRANI.Form1.resources
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\obj\Debug\net8.0-windows\PİZZA SİPARİŞ EKRANI.csproj.GenerateResource.cache
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\obj\Debug\net8.0-windows\PİZZA SİPARİŞ EKRANI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\obj\Debug\net8.0-windows\PİZZA SİPARİŞ EKRANI.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\obj\Debug\net8.0-windows\PİZZA SİPARİŞ EKRANI.AssemblyInfo.cs
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\obj\Debug\net8.0-windows\PİZZA SİPARİŞ EKRANI.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\obj\Debug\net8.0-windows\PİZZA SİPARİŞ EKRANI.dll
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\obj\Debug\net8.0-windows\refint\PİZZA SİPARİŞ EKRANI.dll
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\obj\Debug\net8.0-windows\PİZZA SİPARİŞ EKRANI.pdb
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\obj\Debug\net8.0-windows\PİZZA SİPARİŞ EKRANI.genruntimeconfig.cache
+C:\Users\Enes\source\repos\PİZZA SİPARİŞ EKRANI\PİZZA SİPARİŞ EKRANI\obj\Debug\net8.0-windows\ref\PİZZA SİPARİŞ EKRANI.dll
